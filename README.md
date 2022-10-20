@@ -5,3 +5,6 @@ Just a funny *README.md* with some jokes.
 — Me!  
 — Me who?  
 — Me-me!  
+
+
+**There is no info about me.**
